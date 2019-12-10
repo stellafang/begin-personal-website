@@ -7,26 +7,26 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', // ←  Start by adding your name!
-    title: 'My personal site!',
+    fullname: 'Stella Fang', // ←  Start by adding your name!
+    title: 'Best Site Ever',
     occupation: 'Artist & Photographer',
-    location: 'West Glacier, MT',
-    bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis.',
+    location: 'Vancouver, BC',
+    bio: 'I work at Mobify and Lauren Mew is beside me',
 
     /**
      * Contact / social
      * - Comment out any item below to remove it from your page
      */
-    email: 'your@email.com',
-    twitter: 'yourTwitter',
-    linkedin: 'your-linkedin-name',
-    instagram: 'yourInsta',
-    facebook: 'your-facebook-name',
+    email: 'stelly@email.com',
+    twitter: 'stellyTweets',
+    linkedin: 'stellyLinkedIn',
+    instagram: 'stellyIG',
+    facebook: 'WhoUsesIG??',
 
     /**
      * Layout
      */
-    photographer: 'Ivana Cajina',
+    photographer: 'Stella',
     service: 'Unsplash',
     credit: 'https://unsplash.com/@von_co',
     image: staticAssetsHelper('background.jpg')
